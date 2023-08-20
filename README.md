@@ -1,6 +1,6 @@
-<h1 align="center">(img align="right" alt="Coding" width="400" src="header.png")</h1>
-<h3 align="center">A junior software engineer who loves AI</h3>
-(img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif")
+<h1 align="center"><img align="center" alt="Coding" width="800" src="header.png"></h1>
+<h3 align="center">Junior software engineer in Sweden</h3>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iara-av&label=Profile%20views&color=0e75b6&style=flat" alt="iara-av" /> </p>
@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iara-av&show_icons=true&locale=en&layout=compact" alt="iara-av" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iara-av&show_icons=true&locale=en" alt="iara-av" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iara-av&" alt="iara-av" /></p>
